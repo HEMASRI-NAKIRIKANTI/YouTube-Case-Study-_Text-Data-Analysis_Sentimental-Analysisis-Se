@@ -18,3 +18,15 @@ From these thing analysed
  * The most liked Category of Videos
  * Whether the audience engaged or not
  * Trending Videos on Youtube
+## 🛠 Libraries and Languages used
+ * pandas 
+ * numpy 
+ * matplotlib
+ * seaborn
+ * python
+ * emoji
+ * wordcloud
+ * textblob
+ * sqlalchemy
+
+
